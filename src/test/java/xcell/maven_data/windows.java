@@ -31,8 +31,6 @@ public class windows  {
 	driver.findElement(By.cssSelector("[placeholder=\"Enter Delivery Pincode\"]")).sendKeys("632007\n");
 	Thread.sleep(3000);
 	driver.findElement(By.xpath("(//li[contains(@class,'col')])[1]")).click();	
-	
-	System.out.println("jio");
 	System.out.println("hi");
 	System.out.println("jio");
 	System.out.println("hi");
@@ -44,7 +42,11 @@ public class windows  {
 	System.out.println("hi");
 	System.out.println("jio");
 	System.out.println("hi");
-	
+	System.out.println("jio");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
 	
  }
 }
