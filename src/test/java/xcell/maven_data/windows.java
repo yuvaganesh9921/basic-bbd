@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import fb.com.Baseclass.Base_Class_Ipt2;
+
 
 public class windows  {
  public static void main(String[] args) throws Throwable {
@@ -32,7 +32,18 @@ public class windows  {
 	Thread.sleep(3000);
 	driver.findElement(By.xpath("(//li[contains(@class,'col')])[1]")).click();	
 	
-	
+	System.out.println("jio");
+	System.out.println("hi");
+	System.out.println("jio");
+	System.out.println("hi");
+	System.out.println("jio");
+	System.out.println("hi");
+	System.out.println("jio");
+	System.out.println("hi");
+	System.out.println("jio");
+	System.out.println("hi");
+	System.out.println("jio");
+	System.out.println("hi");
 	
 	
  }
