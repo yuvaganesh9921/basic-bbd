@@ -71,5 +71,8 @@ public class read {
 		for (int i = 62; i <150 ; i++) {
 			write_1(i,62,findElements2.get(i).getText());
 		}
+		System.out.println("hi ");
 	}
+	
+	
 }
